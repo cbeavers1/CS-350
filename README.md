@@ -1,7 +1,7 @@
 # CS-350
 
 
-A thermostat capable that signals whether the temperature is below a certain point. If the temperature falls below said point, an LED will light up. If the temperature raises past the set point, the light will turn off. Each time temperature is read from the sensor, the data is sent to a server in the cloud via Wi-Fi module integrated in the board. 
+A thermostat that signals whether the temperature is below a certain point. If the temperature falls below said point, an LED will light up. If the temperature raises past the set point, the light will turn off. Each time temperature is read from the sensor, the data is sent to a server in the cloud via Wi-Fi module integrated in the board. 
 
 My strengths with these types of projects typically include understanding the requirements, visualizing the requirements, and data structures. I am typically good at creating data structures or complex sets of instructions to accomplish uncommon variations of a task. My method of creating code here involved two methods to solve the problem, I used a task scheduler with multiple enumerators but also implemented individual variables that are used to identify actions and states. 
 
